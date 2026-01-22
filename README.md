@@ -1,6 +1,6 @@
 # Isa Valladolid
 
-Data Science Engeniering Student | ITESO | 
+Data Science Engeniering Student | ITESO 
 ---
 
 ## Temas de interes
