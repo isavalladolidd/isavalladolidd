@@ -11,8 +11,9 @@ Data Science Engeniering Student | ITESO |
 - 🔹 Sentiment analysis
 
 ---
+📧 Email: isavalladolid691@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/isabel-valladolid-0275aa2bb
 
-📧 Email: isavalladolid691@gmail.com
 ---
 
