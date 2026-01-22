@@ -1,16 +1,17 @@
-## Hi there 👋
+# Isa Valladolid
 
-<!--
-**isavalladolidd/isavalladolidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science Engeniering Student | ITESO | 
+---
 
-Here are some ideas to get you started:
+## Temas de interes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔹 Data Engeniering
+- 🔹 Artificial Intelligence
+- 🔹 Software developer
+- 🔹 Sentiment analysis
+
+---
+💼 LinkedIn: www.linkedin.com/in/isabel-valladolid-0275aa2bb
+📧 Email: isavalladolid691@gmail.com
+---
+
