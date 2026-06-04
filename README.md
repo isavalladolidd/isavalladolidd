@@ -8,7 +8,7 @@ Data Science Engeniering Student | ITESO
 - 🔹 Data Engeniering
 - 🔹 Artificial Intelligence
 - 🔹 Software developer
-- 🔹 Sentiment analysis
+- 🔹 NLP
 - 🔹 Machine Learning
 
 ---
