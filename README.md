@@ -49,5 +49,5 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight" alt="Isa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isavalladolidd&show_icons=true&theme=tokyonight" alt="Isa's GitHub Stats" />
 </p>
