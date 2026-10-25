@@ -43,11 +43,3 @@
 ### Beyond Coding
 
 🏃‍♀️ **Running** &nbsp;|&nbsp; 🧘‍♀️ **Yoga** &nbsp;|&nbsp; 🏋️‍♀️ **Pilates** &nbsp;|&nbsp; 🧗‍♀️ **Hiking**
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isavalladolidd&show_icons=true&theme=tokyonight" alt="Isa's GitHub Stats" />
-</p>
